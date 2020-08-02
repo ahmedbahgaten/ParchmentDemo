@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.7.3)
+  - GoogleMaps (3.9.0):
+    - GoogleMaps/Maps (= 3.9.0)
+  - GoogleMaps/Base (3.9.0)
+  - GoogleMaps/Maps (3.9.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.9.0):
+    - GoogleMaps/Base (= 3.9.0)
+  - NVActivityIndicatorView (5.0.0):
+    - NVActivityIndicatorView/Base (= 5.0.0)
+  - NVActivityIndicatorView/Base (5.0.0)
+  - Parchment (2.4.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.7.3)
+  - GoogleMaps
+  - GooglePlaces
+  - NVActivityIndicatorView
+  - Parchment
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - NVActivityIndicatorView
+    - Parchment
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  GoogleMaps: 4b5346bddfe6911bb89155d43c903020170523ac
+  GooglePlaces: 1634d019549b969d40fe0ccb0b9513055adebe01
+  NVActivityIndicatorView: f109ed069924ac1b4adbc1ae9cfaeac0be1d6c2c
+  Parchment: 002785473861582385db5c6725165353c500198e
+
+PODFILE CHECKSUM: 220354bc064782a8e794ef9dff7dca21101100d1
+
+COCOAPODS: 1.8.4
